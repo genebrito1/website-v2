@@ -56,7 +56,7 @@ Las empresas que no se quedan atrás Procter & Gamble (P&G), Johnson Controls, S
 En 4Geeks Academy puedes aprender a programar estando en México y tener la oportunidad de ver clases en vivo, mentorías ilimitadas y para toda la vida Part-time, flexible y pertenecer a una de las comunidades de devs más grandes del mundo, también podrás contar con servicios de Career Support personalizados, individuales y de por vida.
 Nuestra egresada  [Silvina Angüilla](https://www.linkedin.com/in/silvina-anguilla/) quien es QA Analyst en Tata Consultancy Services gracias a nuestro programa GeekFORCE permitiendo la inserción laboral inmediata luego de finalizar el bootcamp. 
 
- ![Egresada Silvina Angüilla](file:///C:/Users/admin/Downloads/Semana%202%20Agosto%20(5).jpg)
+ ![Egresada Silvina Angüilla](https://i.imgur.com/1fXnqyy.jpg)
 
 Ahora que ya sabes cuánto gana un programador en México, la ventaja más importante que  entiende ser programador es tener un salario por encima de la media y una demanda laboral estable. Culturalmente hablando, ser desarrollador es una profesión que conlleva bastante reputación en muchas empresas.     
 
